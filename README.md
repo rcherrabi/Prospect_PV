@@ -1,3 +1,8 @@
+## 🖥️ Aperçu de l'application
+
+### Console de pilotage PyQt
+![Interface Prospect PV](inetrface_pv_prospect.png)
+
 Prospect PV transforme la prospection solaire en automatisant à l'échelle départementale ce qui demandait auparavant plusieurs jours de requêtes manuelles.   
 
 En un seul traitement algorithmique, cet outil métier balaye l'ensemble du territoire pour identifier les parcelles les plus propices au photovoltaïque. Il centralise l'ensemble des projet(Agri-PV, PV classique, terrains communaux, zonages d'urbanisme) au sein d'une chaîne de calcul unique.  
